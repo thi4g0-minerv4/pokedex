@@ -26,7 +26,7 @@ body {
 /* Main div */
 main {
     position: relative;
-    width: 80%;
+    width: 55%;
     max-width: 550px;
     background-color: rgba(255, 0, 0, 0.047);
     display: inline-block;
